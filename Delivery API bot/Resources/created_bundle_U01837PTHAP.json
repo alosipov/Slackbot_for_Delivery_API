@@ -1,0 +1,113 @@
+{
+    "bundle_id": "B-e10d99d11749486bb1a2dad8ae361806",
+    "company_id": "RU-1999",
+    "created_at": "2020-10-15T21:33:10.683006Z",
+    "deliveries": [
+        {
+            "age_verification_required": false,
+            "arrived_at": null,
+            "bundle_id": "B-e10d99d11749486bb1a2dad8ae361806",
+            "cannot_deliver_info": null,
+            "client_price": null,
+            "courier": null,
+            "created_at": "2020-10-15T21:33:10.762947Z",
+            "deliver_from": null,
+            "deliver_until": null,
+            "delivery_price": null,
+            "display_identifier": "DeliveryAPISlackBot",
+            "drop_off": {
+                "address": "3, Лесная улица, Брусчатый поселок, Krasnogorsk, Krasnogorsky District, Moscow Oblast, Central Federal District, 143401, Russia",
+                "lat": 55.8313525,
+                "lng": 37.32624446886749,
+                "note": "Floor 5, Door 7"
+            },
+            "drop_off_contact": {
+                "name": "Осипова Елена",
+                "phone_number": "+79260096532"
+            },
+            "ended_at": null,
+            "external_identifier": "DeliveryAPISlackBot",
+            "external_payment_confirmation": false,
+            "id": "DR-a4c4ea16b8504b91af60ad82e18c900b",
+            "order_from": "DeliveryApi-003caed893af3b44ba8f5986f9ac7272930444636d11eb5c8eff9085871ede98",
+            "order_id_representation": "XP3934921142QF",
+            "parcels": [
+                {
+                    "barcode": "0123452",
+                    "barcodes": [
+                        "0123452",
+                        "hgcgf5656"
+                    ],
+                    "cannot_deliver_info": null,
+                    "display_identifier": "666",
+                    "height": 10,
+                    "items": [
+                        {
+                            "cannot_deliver_info": null,
+                            "exemplars": [
+                                {
+                                    "barcode": "01ygitftyf23452",
+                                    "cannot_deliver_info": null,
+                                    "external_id": "6390000414047",
+                                    "status": "initial"
+                                },
+                                {
+                                    "barcode": "6527394735",
+                                    "cannot_deliver_info": null,
+                                    "external_id": "4140463900007",
+                                    "status": "initial"
+                                }
+                            ],
+                            "external_id": "6041404739000",
+                            "name": "Vodka, bear, berezka",
+                            "price": 293.15,
+                            "quantity": 2,
+                            "status": "initial",
+                            "vat_rate": 10
+                        }
+                    ],
+                    "length": 125,
+                    "size_alias": "B",
+                    "status": "initial",
+                    "weight": 3.15,
+                    "width": 23
+                }
+            ],
+            "picked_up_at": null,
+            "pickup": {
+                "address": "Клуб Досуг, 9, Лесная улица, Брусчатый поселок, Krasnogorsk, Krasnogorsky District, Moscow Oblast, Central Federal District, 143401, Russia",
+                "lat": 55.8337971,
+                "lng": 37.3245612,
+                "note": "Apt: 3, floor: 4"
+            },
+            "pickup_contact": {
+                "name": "Алексей Осипов",
+                "phone_number": "+79263494018"
+            },
+            "product_id": "8ed2d915-6720-4f1c-a509-2f110f95af27",
+            "return_contact": {
+                "name": "Алексей Осипов",
+                "phone_number": "+79263494018"
+            },
+            "return_drop_off": {
+                "address": "Клуб Досуг, 9, Лесная улица, Брусчатый поселок, Krasnogorsk, Krasnogorsky District, Moscow Oblast, Central Federal District, 143401, Russia",
+                "lat": 55.8337971,
+                "lng": 37.3245612,
+                "note": "Apt: 3, floor: 4"
+            },
+            "route_identifier": null,
+            "scheduled_at": "2020-10-20T16:54:29Z",
+            "started_at": null,
+            "status": "pending",
+            "status_code": 10,
+            "vendor": {
+                "name": "Mother Russia"
+            },
+            "verifications": null
+        }
+    ],
+    "display_identifier": "DeliveryAPISlackBot",
+    "process_type": "optimize_and_execute",
+    "return_mode": "if_not_delivered",
+    "scheduled_at": "2020-10-20T16:54:29Z"
+}

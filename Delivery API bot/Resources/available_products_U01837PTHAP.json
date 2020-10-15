@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "display_name": "Gett Delivery",
+            "id": "8ed2d915-6720-4f1c-a509-2f110f95af27",
+            "image_url": "class.2393.media.app.selection",
+            "messages": {
+                "description": "Доставка небольших грузов (до 20 кг). Курьер приедет в течение 10 минут",
+                "price": "Корпоративный тариф Для получения фикс. цены укажите пункт назначения"
+            }
+        },
+        {
+            "display_name": "кимчи",
+            "id": "04782e5e-34cc-4911-a0f7-39ea65bf0401",
+            "image_url": "class.1951.media.app.selection",
+            "messages": {
+                "description": "Ford Focus, Ford Galaxy, Skoda Octavia, Hyundai Solaris",
+                "price": "Смотрите детальное описание тарифов"
+            }
+        }
+    ]
+}
