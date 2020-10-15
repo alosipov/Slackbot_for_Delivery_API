@@ -1,16 +1,16 @@
 {
-    "bundle_id": "B-e10d99d11749486bb1a2dad8ae361806",
+    "bundle_id": "B-8fbef2a0a1614683a489c90561be60e8",
     "company_id": "RU-1999",
-    "created_at": "2020-10-15T21:33:10.683006Z",
+    "created_at": "2020-10-15T22:12:08.01583Z",
     "deliveries": [
         {
             "age_verification_required": false,
             "arrived_at": null,
-            "bundle_id": "B-e10d99d11749486bb1a2dad8ae361806",
+            "bundle_id": "B-8fbef2a0a1614683a489c90561be60e8",
             "cannot_deliver_info": null,
             "client_price": null,
             "courier": null,
-            "created_at": "2020-10-15T21:33:10.762947Z",
+            "created_at": "2020-10-15T22:12:08.185868Z",
             "deliver_from": null,
             "deliver_until": null,
             "delivery_price": null,
@@ -28,9 +28,9 @@
             "ended_at": null,
             "external_identifier": "DeliveryAPISlackBot",
             "external_payment_confirmation": false,
-            "id": "DR-a4c4ea16b8504b91af60ad82e18c900b",
+            "id": "DR-dbf1d546aaf94f2eb493228eddd1a1e3",
             "order_from": "DeliveryApi-003caed893af3b44ba8f5986f9ac7272930444636d11eb5c8eff9085871ede98",
-            "order_id_representation": "XP3934921142QF",
+            "order_id_representation": "IB3643387574WK",
             "parcels": [
                 {
                     "barcode": "0123452",

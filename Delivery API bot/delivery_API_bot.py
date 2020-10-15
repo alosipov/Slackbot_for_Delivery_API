@@ -623,9 +623,9 @@ def message(payload):
     message.client_id = text.split()[2]
     message.client_secret = text.split()[3]
     message.scope = text.split()[4]
-    if text.split()[5] == 'RU':
+    if message.business_id[0:2] == 'RU':
         message.env = 'RU'
-    elif text.split()[5] == 'IL':
+    elif message.business_id[0:2] == 'IL':
         message.env = 'IL'
     else:
         raise Exception("Unknown env bitch!")
