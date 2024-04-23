@@ -22,8 +22,8 @@
                 "note": "Floor 5, Door 7"
             },
             "drop_off_contact": {
-                "name": "Осипова Елена",
-                "phone_number": "+79260096532"
+                "name": "Ivanov Ivan",
+                "phone_number": "+79260000000"
             },
             "ended_at": null,
             "external_identifier": "DeliveryAPISlackBot",
@@ -81,13 +81,13 @@
                 "note": "Apt: 3, floor: 4"
             },
             "pickup_contact": {
-                "name": "Алексей Осипов",
-                "phone_number": "+79263494018"
+                "name": "Ivanov Ivan",
+                "phone_number": "+79260000000"
             },
             "product_id": "8ed2d915-6720-4f1c-a509-2f110f95af27",
             "return_contact": {
-                "name": "Алексей Осипов",
-                "phone_number": "+79263494018"
+                "name": "Ivanov Ivan",
+                "phone_number": "+79260000000"
             },
             "return_drop_off": {
                 "address": "Клуб Досуг, 9, Лесная улица, Брусчатый поселок, Krasnogorsk, Krasnogorsky District, Moscow Oblast, Central Federal District, 143401, Russia",
