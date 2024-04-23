@@ -16,14 +16,14 @@ from slackeventsapi import SlackEventAdapter
 # Flask webserver for incoming traffic from Slack
 app = Flask(__name__)
 
-SLACK_BOT_TOKEN = "xoxb-1298896006320-1322092775028-wkKde6KRPg1EKZqrstGN3GmQ"
-SLACK_VERIFICATION_TOKEN = 'FSPuWGBbw5evVaeHxexbUoQX'
+SLACK_BOT_TOKEN = "xoxb-*********-********-****************"
+SLACK_VERIFICATION_TOKEN = '*******************'
 
 # Slack client for Web API requests
 slack_client = WebClient(SLACK_BOT_TOKEN)
 
 # Create an events adapter and register it to an endpoint in the slack app for event ingestion.
-slack_events_adapter = SlackEventAdapter("be0aad97c25e6131a1cbc0d116eda30f", "/slack/events", app)
+slack_events_adapter = SlackEventAdapter("***********************", "/slack/events", app)
 
 
 # Helper for verifying that requests came from Slack
